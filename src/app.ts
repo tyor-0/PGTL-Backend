@@ -5,8 +5,16 @@ import jobRoutes from "./routes/jobRoutes";
 import logger from "./config/logger";
 
 const app = express();
+const FRONTEND_URL = process.env.FRONTEND_URL;
 
-app.use(cors({ origin: process.env.FRONTEND_URL || "http://localhost:5173" }));
+app.use(
+  cors({
+    origin:
+      process.env.NODE_ENV === "production"
+        ? process.env.FRONTEND_URL
+        : "http://localhost:5173",
+  })
+);
 app.use(express.json());
 
 // 1. ABSOLUTE ROOT HEALTH CHECK (http://localhost:5000/)
