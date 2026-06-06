@@ -1,0 +1,602 @@
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+[2026-05-26T20:33:13.155Z] INFO: Server running on port 5000
+[2026-05-26T20:33:52.130Z] ERROR: Both files are required
+[2026-05-26T20:35:45.714Z] INFO: Files uploaded successfully
+[2026-05-26T21:30:31.931Z] INFO: Server running on port 5000
+[2026-05-26T21:30:40.075Z] INFO: CSV files validated successfully
+[2026-05-26T21:31:00.114Z] INFO: CSV files validated successfully
+[2026-05-26T21:55:39.712Z] ERROR: Both files are required
+[2026-05-26T22:02:43.411Z] INFO: Server running on port 5000
+[2026-05-26T22:02:51.575Z] INFO: Server running on port 5000
+[2026-05-26T22:05:16.779Z] INFO: Server running on port 5000
+[2026-05-26T22:05:22.292Z] INFO: Server running on port 5000
+[2026-05-26T22:05:25.146Z] INFO: Server running on port 5000
+[2026-05-26T22:05:43.225Z] INFO: Server running on port 5000
+[2026-05-26T22:05:45.807Z] INFO: Server running on port 5000
+[2026-05-26T22:09:05.742Z] INFO: Server running on port 5000
+[2026-05-26T22:09:07.879Z] INFO: Server running on port 5000
+[2026-05-26T22:09:09.843Z] INFO: Server running on port 5000
+[2026-05-26T22:09:12.259Z] INFO: Server running on port 5000
+[2026-05-26T22:09:20.616Z] INFO: Server running on port 5000
+[2026-05-26T22:09:21.700Z] INFO: Server running on port 5000
+[2026-05-26T22:09:25.521Z] INFO: Server running on port 5000
+[2026-05-26T22:09:26.507Z] INFO: Server running on port 5000
+[2026-05-26T22:09:28.380Z] INFO: Server running on port 5000
+[2026-05-26T22:09:35.850Z] INFO: Server running on port 5000
+[2026-05-26T22:09:37.292Z] INFO: Server running on port 5000
+[2026-05-26T22:09:43.980Z] INFO: Server running on port 5000
+[2026-05-26T22:09:45.568Z] INFO: Server running on port 5000
+[2026-05-26T22:10:03.697Z] INFO: Server running on port 5000
+[2026-05-26T22:10:07.350Z] INFO: Server running on port 5000
+[2026-05-26T22:10:20.707Z] INFO: Server running on port 5000
+[2026-05-26T22:10:22.322Z] INFO: Server running on port 5000
+[2026-05-26T22:10:24.689Z] INFO: Server running on port 5000
+[2026-05-26T22:10:29.198Z] INFO: Server running on port 5000
+[2026-05-26T22:10:45.519Z] INFO: Server running on port 5000
+[2026-05-26T22:10:49.332Z] INFO: Server running on port 5000
+[2026-05-26T22:10:51.725Z] INFO: Server running on port 5000
+[2026-05-26T22:10:52.811Z] INFO: Server running on port 5000
+[2026-05-26T22:11:02.364Z] INFO: Server running on port 5000
+[2026-05-26T22:11:06.867Z] INFO: Server running on port 5000
+[2026-05-26T22:11:08.755Z] INFO: Server running on port 5000
+[2026-05-26T22:11:11.975Z] INFO: Server running on port 5000
+[2026-05-26T22:11:18.572Z] INFO: Server running on port 5000
+[2026-05-26T22:11:20.377Z] INFO: Server running on port 5000
+[2026-05-26T22:12:50.974Z] INFO: Server running on port 5000
+[2026-05-26T22:12:59.039Z] INFO: Server running on port 5000
+[2026-05-26T22:13:38.658Z] INFO: Server running on port 5000
+[2026-05-26T22:13:45.270Z] INFO: Server running on port 5000
+[2026-05-26T22:13:59.930Z] INFO: Server running on port 5000
+[2026-05-26T22:15:05.980Z] INFO: Server running on port 5000
+[2026-05-26T22:15:24.613Z] INFO: Server running on port 5000
+[2026-05-26T22:26:59.931Z] INFO: Server running on port 5000
+[2026-05-26T22:27:03.040Z] INFO: Server running on port 5000
+[2026-05-26T22:27:10.094Z] INFO: Server running on port 5000
+[2026-05-26T22:27:34.800Z] INFO: Server running on port 5000
+[2026-05-26T22:27:42.308Z] INFO: Server running on port 5000
+[2026-05-26T22:27:58.988Z] INFO: Server running on port 5000
+[2026-05-26T22:28:52.864Z] INFO: Server running on port 5000
+[2026-05-26T22:28:55.786Z] INFO: Server running on port 5000
+[2026-05-26T22:28:59.006Z] INFO: Server running on port 5000
+[2026-05-26T22:29:32.818Z] INFO: Server running on port 5000
+[2026-05-26T22:29:35.936Z] INFO: Server running on port 5000
+[2026-05-26T22:29:37.031Z] INFO: Server running on port 5000
+[2026-05-26T22:29:42.112Z] INFO: Server running on port 5000
+[2026-05-26T22:29:45.415Z] INFO: Server running on port 5000
+[2026-05-26T22:29:49.771Z] INFO: Server running on port 5000
+[2026-05-26T22:30:05.130Z] INFO: Server running on port 5000
+[2026-05-26T22:30:09.948Z] INFO: Server running on port 5000
+[2026-05-26T22:30:12.416Z] INFO: Server running on port 5000
+[2026-05-26T22:30:13.741Z] INFO: Server running on port 5000
+[2026-05-26T22:30:17.204Z] INFO: Server running on port 5000
+[2026-05-26T22:30:18.560Z] INFO: Server running on port 5000
+[2026-05-26T22:30:26.200Z] INFO: Server running on port 5000
+[2026-05-26T22:30:56.781Z] INFO: Server running on port 5000
+[2026-05-26T22:30:58.352Z] INFO: Server running on port 5000
+[2026-05-26T22:31:00.457Z] INFO: Server running on port 5000
+[2026-05-26T22:31:01.117Z] INFO: Server running on port 5000
+[2026-05-26T22:31:02.927Z] INFO: Server running on port 5000
+[2026-05-26T22:32:01.105Z] INFO: Server running on port 5000
+[2026-05-26T22:32:03.151Z] INFO: Server running on port 5000
+[2026-05-26T22:32:07.982Z] INFO: Server running on port 5000
+[2026-05-26T22:32:09.769Z] INFO: Server running on port 5000
+[2026-05-26T22:32:19.045Z] INFO: Server running on port 5000
+[2026-05-26T22:32:23.168Z] INFO: Server running on port 5000
+[2026-05-26T22:32:27.926Z] INFO: Server running on port 5000
+[2026-05-26T22:32:36.940Z] INFO: Server running on port 5000
+[2026-05-26T22:32:38.468Z] INFO: Server running on port 5000
+[2026-05-26T22:34:56.543Z] INFO: Server running on port 5000
+[2026-05-26T22:35:16.811Z] INFO: Server running on port 5000
+[2026-05-26T22:35:18.823Z] INFO: Server running on port 5000
+[2026-05-26T22:35:20.879Z] INFO: Server running on port 5000
+[2026-05-26T22:35:46.799Z] INFO: Server running on port 5000
+[2026-05-26T22:35:48.799Z] INFO: Server running on port 5000
+[2026-05-26T22:35:49.995Z] INFO: Server running on port 5000
+[2026-05-26T22:44:45.048Z] INFO: Server running on port 5000
+[2026-05-26T22:45:09.034Z] INFO: Server running on port 5000
+[2026-05-26T22:45:16.268Z] INFO: Server running on port 5000
+[2026-05-26T22:45:37.184Z] INFO: Server running on port 5000
+[2026-05-26T22:45:42.234Z] INFO: Server running on port 5000
+[2026-05-26T22:45:44.434Z] INFO: Server running on port 5000
+[2026-05-26T22:47:23.019Z] INFO: Server running on port 5000
+[2026-05-26T22:47:24.973Z] INFO: Server running on port 5000
+[2026-05-26T22:47:42.267Z] INFO: Server running on port 5000
+[2026-05-26T22:47:43.455Z] INFO: Server running on port 5000
+[2026-05-26T22:47:46.481Z] INFO: Server running on port 5000
+[2026-05-26T22:47:53.811Z] INFO: Server running on port 5000
+[2026-05-26T22:47:56.347Z] INFO: Server running on port 5000
+[2026-05-26T22:47:59.509Z] INFO: Server running on port 5000
+[2026-05-26T22:48:58.275Z] INFO: Server running on port 5000
+[2026-05-26T22:49:07.455Z] INFO: Server running on port 5000
+[2026-05-26T22:49:11.407Z] INFO: Server running on port 5000
+[2026-05-26T22:49:28.727Z] INFO: Server running on port 5000
+[2026-05-26T22:49:39.056Z] INFO: Server running on port 5000
+[2026-05-26T22:49:43.331Z] INFO: Server running on port 5000
+[2026-05-26T22:49:47.068Z] INFO: Server running on port 5000
+[2026-05-26T22:49:54.002Z] INFO: Server running on port 5000
+[2026-05-26T22:49:56.357Z] INFO: Server running on port 5000
+[2026-05-26T22:50:02.564Z] INFO: Server running on port 5000
+[2026-05-26T22:50:03.945Z] INFO: Server running on port 5000
+[2026-05-26T22:50:17.054Z] INFO: Server running on port 5000
+[2026-05-26T22:50:21.891Z] INFO: Server running on port 5000
+[2026-05-26T22:50:23.505Z] INFO: Server running on port 5000
+[2026-05-26T22:50:25.482Z] INFO: Server running on port 5000
+[2026-05-26T22:50:28.830Z] INFO: Server running on port 5000
+[2026-05-26T22:50:38.849Z] INFO: Server running on port 5000
+[2026-05-26T22:50:39.958Z] INFO: Server running on port 5000
+[2026-05-26T22:50:48.193Z] INFO: Server running on port 5000
+[2026-05-26T22:50:48.828Z] INFO: Server running on port 5000
+[2026-05-26T22:50:55.678Z] INFO: Server running on port 5000
+[2026-05-26T22:51:01.964Z] INFO: Server running on port 5000
+[2026-05-26T22:51:03.103Z] INFO: Server running on port 5000
+[2026-05-26T22:51:07.518Z] INFO: Server running on port 5000
+[2026-05-26T22:51:12.550Z] INFO: Server running on port 5000
+[2026-05-26T22:51:13.984Z] INFO: Server running on port 5000
+[2026-05-26T22:51:18.322Z] INFO: Server running on port 5000
+[2026-05-26T22:51:25.627Z] INFO: Server running on port 5000
+[2026-06-02T22:25:42.503Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-02T22:25:42.515Z] INFO: Server running on port 5000
+[2026-06-04T17:44:21.065Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-04T17:44:21.079Z] INFO: Server running on port 5000
+[2026-06-04T18:24:44.440Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-04T18:24:44.474Z] INFO: Server running on port 5000
+[2026-06-04T18:28:15.082Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-04T18:28:15.097Z] INFO: Server running on port 5000
+[2026-06-04T18:29:27.723Z] ERROR: Both files are required
+[2026-06-04T22:46:59.364Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-04T22:46:59.378Z] INFO: Server running on port 5000
+[2026-06-04T23:28:21.458Z] INFO: Job 5c89651d-becf-4914-9dde-f911f742b3a0 created
+[2026-06-04T23:28:22.203Z] ERROR: Worker crashed for job 5c89651d-becf-4914-9dde-f911f742b3a0 ⨯ Unable to compile TypeScript:
+src/workers/reconciliationWorker.ts(50,5): error TS1128: Declaration or statement expected.
+
+[2026-06-04T23:28:22.208Z] ERROR: Worker exited with code 1
+[2026-06-05T00:53:17.980Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T00:53:17.989Z] INFO: Server running on port 5000
+[2026-06-05T00:53:57.862Z] INFO: Job c6b6b709-bf94-4867-a575-4f5634a48536 created
+[2026-06-05T01:04:59.972Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:04:59.982Z] INFO: Server running on port 5000
+[2026-06-05T01:05:09.276Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:05:09.284Z] INFO: Server running on port 5000
+[2026-06-05T01:05:30.301Z] INFO: Job 7a357c8e-c7e2-42cc-8329-a60508f64b96 created
+[2026-06-05T01:09:58.783Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:09:58.794Z] INFO: Server running on port 5000
+[2026-06-05T01:10:29.896Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:10:29.908Z] INFO: Server running on port 5000
+[2026-06-05T01:10:35.402Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:10:35.411Z] INFO: Server running on port 5000
+[2026-06-05T01:17:21.024Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:17:21.032Z] INFO: Server running on port 5000
+[2026-06-05T01:27:17.230Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:27:17.239Z] INFO: Server running on port 5000
+[2026-06-05T01:27:33.028Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:27:33.040Z] INFO: Server running on port 5000
+[2026-06-05T01:28:29.944Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:28:29.955Z] INFO: Server running on port 5000
+[2026-06-05T01:28:31.120Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:28:31.128Z] INFO: Server running on port 5000
+[2026-06-05T01:29:09.827Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:29:09.836Z] INFO: Server running on port 5000
+[2026-06-05T01:32:33.659Z] INFO: Job 3f8a80ab-7567-472f-8dab-0fc6ec761f01 created
+[2026-06-05T01:32:33.660Z] INFO: BEFORE WORKER
+[2026-06-05T01:32:33.662Z] INFO: NODE_ENV: undefined
+[2026-06-05T01:32:33.663Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T01:32:33.675Z] INFO: AFTER WORKER
+[2026-06-05T01:44:27.034Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:44:27.044Z] INFO: Server running on port 5000
+[2026-06-05T01:44:30.368Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:44:30.380Z] INFO: Server running on port 5000
+[2026-06-05T01:46:51.331Z] INFO: Job 47fe90b1-a723-4565-b0aa-7cb5de80db02 created
+[2026-06-05T01:46:51.332Z] INFO: BEFORE WORKER
+[2026-06-05T01:46:51.333Z] INFO: NODE_ENV: undefined
+[2026-06-05T01:46:51.333Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T01:46:51.337Z] INFO: AFTER WORKER
+[2026-06-05T01:46:51.506Z] INFO: Worker online for job 47fe90b1-a723-4565-b0aa-7cb5de80db02
+[2026-06-05T01:47:12.613Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T01:47:12.621Z] INFO: Server running on port 5000
+[2026-06-05T01:47:37.934Z] INFO: Job 424ef39a-e58c-4cef-9527-f184d145ffa3 created
+[2026-06-05T01:47:37.935Z] INFO: BEFORE WORKER
+[2026-06-05T01:47:37.935Z] INFO: NODE_ENV: undefined
+[2026-06-05T01:47:37.936Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T01:47:37.939Z] INFO: AFTER WORKER
+[2026-06-05T01:47:38.135Z] INFO: Worker online for job 424ef39a-e58c-4cef-9527-f184d145ffa3
+[2026-06-05T01:50:24.406Z] INFO: Job 57da201e-8a8c-49e7-9888-725bc9970305 created
+[2026-06-05T01:50:24.406Z] INFO: BEFORE WORKER
+[2026-06-05T01:50:24.408Z] INFO: NODE_ENV: undefined
+[2026-06-05T01:50:24.409Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T01:50:24.411Z] INFO: AFTER WORKER
+[2026-06-05T01:50:24.647Z] INFO: Worker online for job 57da201e-8a8c-49e7-9888-725bc9970305
+[2026-06-05T02:02:32.263Z] INFO: Job 8ccd2075-a335-4cea-a2e3-2dadd2e7f29d created
+[2026-06-05T02:02:32.265Z] INFO: BEFORE WORKER
+[2026-06-05T02:02:32.266Z] INFO: NODE_ENV: undefined
+[2026-06-05T02:02:32.266Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T02:02:32.270Z] INFO: AFTER WORKER
+[2026-06-05T02:02:32.729Z] INFO: Worker online for job 8ccd2075-a335-4cea-a2e3-2dadd2e7f29d
+[2026-06-05T02:02:33.528Z] INFO: CSV files validated successfully
+[2026-06-05T02:02:33.536Z] INFO: CSV files validated successfully
+[2026-06-05T02:02:33.532Z] INFO: CSV files validated successfully
+[2026-06-05T02:02:33.697Z] INFO: SourceA transaction map built
+[2026-06-05T02:02:33.722Z] INFO: SourceA transaction map built
+[2026-06-05T02:02:33.734Z] INFO: SourceA transaction map built
+[2026-06-05T02:02:33.997Z] INFO: Reconciliation completed successfully
+[2026-06-05T02:02:34.100Z] INFO: Job 8ccd2075-a335-4cea-a2e3-2dadd2e7f29d completed successfully
+[2026-06-05T02:02:34.119Z] ERROR: Job 57da201e-8a8c-49e7-9888-725bc9970305 failed
+[2026-06-05T02:02:34.147Z] ERROR: Job 424ef39a-e58c-4cef-9527-f184d145ffa3 failed
+[2026-06-05T02:03:28.869Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T02:03:28.877Z] INFO: Server running on port 5000
+[2026-06-05T02:03:58.792Z] INFO: Job 5812c7e0-413f-4f69-8131-962c62d3ca55 created
+[2026-06-05T02:03:58.793Z] INFO: BEFORE WORKER
+[2026-06-05T02:03:58.794Z] INFO: NODE_ENV: undefined
+[2026-06-05T02:03:58.795Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T02:03:58.798Z] INFO: AFTER WORKER
+[2026-06-05T02:03:58.981Z] INFO: Worker online for job 5812c7e0-413f-4f69-8131-962c62d3ca55
+[2026-06-05T02:09:49.235Z] INFO: Job 075f033e-d25b-4f7d-b93d-fdbd91e783be created
+[2026-06-05T02:09:49.235Z] INFO: BEFORE WORKER
+[2026-06-05T02:09:49.236Z] INFO: NODE_ENV: undefined
+[2026-06-05T02:09:49.236Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T02:09:49.237Z] INFO: AFTER WORKER
+[2026-06-05T02:09:49.369Z] INFO: Worker online for job 075f033e-d25b-4f7d-b93d-fdbd91e783be
+[2026-06-05T02:11:15.352Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T02:11:15.359Z] INFO: Server running on port 5000
+[2026-06-05T02:11:57.245Z] INFO: Job e51bf23a-016a-40bc-b2cd-1f43dbd11e63 created
+[2026-06-05T02:11:57.246Z] INFO: BEFORE WORKER
+[2026-06-05T02:11:57.247Z] INFO: NODE_ENV: undefined
+[2026-06-05T02:11:57.248Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T02:11:57.252Z] INFO: AFTER WORKER
+[2026-06-05T02:11:57.482Z] INFO: Worker online for job e51bf23a-016a-40bc-b2cd-1f43dbd11e63
+[2026-06-05T08:49:45.494Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T08:49:45.506Z] INFO: Server running on port 5000
+[2026-06-05T08:49:58.507Z] INFO: Job 15eb710e-8981-4a1e-9994-8cf262ecd56f created
+[2026-06-05T08:49:58.509Z] INFO: BEFORE WORKER
+[2026-06-05T08:49:58.511Z] INFO: NODE_ENV: undefined
+[2026-06-05T08:49:58.513Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T08:49:58.528Z] INFO: AFTER WORKER
+[2026-06-05T08:49:58.849Z] INFO: Worker online for job 15eb710e-8981-4a1e-9994-8cf262ecd56f
+[2026-06-05T08:49:59.719Z] INFO: CSV files validated successfully
+[2026-06-05T08:49:59.890Z] INFO: SourceA transaction map built
+[2026-06-05T08:50:00.055Z] INFO: Reconciliation completed successfully
+[2026-06-05T08:50:00.059Z] INFO: Job 15eb710e-8981-4a1e-9994-8cf262ecd56f completed successfully
+[2026-06-05T09:06:51.353Z] INFO: Job 9cfdd522-1a24-4caa-8655-43a92f26945e created
+[2026-06-05T09:06:51.367Z] INFO: BEFORE WORKER
+[2026-06-05T09:06:51.370Z] INFO: NODE_ENV: undefined
+[2026-06-05T09:06:51.372Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T09:06:51.397Z] INFO: AFTER WORKER
+[2026-06-05T09:06:51.920Z] INFO: Worker online for job 9cfdd522-1a24-4caa-8655-43a92f26945e
+[2026-06-05T09:06:52.632Z] INFO: CSV files validated successfully
+[2026-06-05T09:06:52.741Z] INFO: SourceA transaction map built
+[2026-06-05T09:06:52.966Z] INFO: Reconciliation completed successfully
+[2026-06-05T09:06:52.970Z] INFO: Job 9cfdd522-1a24-4caa-8655-43a92f26945e completed successfully
+[2026-06-05T09:07:52.491Z] INFO: Job 9f284664-27cf-4751-ae94-745e121b8464 created
+[2026-06-05T09:07:52.492Z] INFO: BEFORE WORKER
+[2026-06-05T09:07:52.492Z] INFO: NODE_ENV: undefined
+[2026-06-05T09:07:52.493Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T09:07:52.496Z] INFO: AFTER WORKER
+[2026-06-05T09:07:52.769Z] INFO: Worker online for job 9f284664-27cf-4751-ae94-745e121b8464
+[2026-06-05T09:07:53.351Z] INFO: CSV files validated successfully
+[2026-06-05T09:07:53.488Z] INFO: SourceA transaction map built
+[2026-06-05T09:07:53.620Z] INFO: Reconciliation completed successfully
+[2026-06-05T09:07:53.622Z] INFO: Job 9f284664-27cf-4751-ae94-745e121b8464 completed successfully
+[2026-06-05T09:17:27.200Z] INFO: Job 8ea319e4-f9e5-44bb-8bcd-b88f1172345a created
+[2026-06-05T09:17:27.202Z] INFO: BEFORE WORKER
+[2026-06-05T09:17:27.203Z] INFO: NODE_ENV: undefined
+[2026-06-05T09:17:27.203Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T09:17:27.206Z] INFO: AFTER WORKER
+[2026-06-05T09:17:27.473Z] INFO: Worker online for job 8ea319e4-f9e5-44bb-8bcd-b88f1172345a
+[2026-06-05T09:17:27.868Z] INFO: CSV files validated successfully
+[2026-06-05T09:17:28.008Z] INFO: SourceA transaction map built
+[2026-06-05T09:17:28.738Z] INFO: Reconciliation completed successfully
+[2026-06-05T09:17:28.755Z] INFO: Job 8ea319e4-f9e5-44bb-8bcd-b88f1172345a completed successfully
+[2026-06-05T09:32:12.762Z] INFO: Job 0738cce4-b024-45d2-bc34-ffcad45a7277 created
+[2026-06-05T09:32:12.780Z] INFO: BEFORE WORKER
+[2026-06-05T09:32:12.806Z] INFO: NODE_ENV: undefined
+[2026-06-05T09:32:12.819Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T09:32:12.832Z] INFO: AFTER WORKER
+[2026-06-05T09:32:14.021Z] INFO: Worker online for job 0738cce4-b024-45d2-bc34-ffcad45a7277
+[2026-06-05T09:32:14.623Z] INFO: CSV files validated successfully
+[2026-06-05T09:32:14.794Z] INFO: SourceA transaction map built
+[2026-06-05T09:32:14.911Z] INFO: Reconciliation completed successfully
+[2026-06-05T09:32:14.930Z] INFO: Job 0738cce4-b024-45d2-bc34-ffcad45a7277 completed successfully
+[2026-06-05T09:37:15.673Z] INFO: Job bad986d1-0210-4994-abac-ad07add560ed created
+[2026-06-05T09:37:15.674Z] INFO: BEFORE WORKER
+[2026-06-05T09:37:15.674Z] INFO: NODE_ENV: undefined
+[2026-06-05T09:37:15.675Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T09:37:15.677Z] INFO: AFTER WORKER
+[2026-06-05T09:37:15.969Z] INFO: Worker online for job bad986d1-0210-4994-abac-ad07add560ed
+[2026-06-05T09:37:16.569Z] INFO: CSV files validated successfully
+[2026-06-05T09:37:16.699Z] INFO: SourceA transaction map built
+[2026-06-05T09:37:16.837Z] INFO: Reconciliation completed successfully
+[2026-06-05T09:37:16.841Z] INFO: Job bad986d1-0210-4994-abac-ad07add560ed completed successfully
+[2026-06-05T10:08:35.062Z] INFO: Job 5160d66c-6040-4943-ac15-30d244983baa created
+[2026-06-05T10:08:35.067Z] INFO: BEFORE WORKER
+[2026-06-05T10:08:35.069Z] INFO: NODE_ENV: undefined
+[2026-06-05T10:08:35.069Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T10:08:35.080Z] INFO: AFTER WORKER
+[2026-06-05T10:08:35.376Z] INFO: Worker online for job 5160d66c-6040-4943-ac15-30d244983baa
+[2026-06-05T10:08:35.885Z] INFO: CSV files validated successfully
+[2026-06-05T10:08:36.010Z] INFO: SourceA transaction map built
+[2026-06-05T10:08:36.151Z] INFO: Reconciliation completed successfully
+[2026-06-05T10:08:36.154Z] INFO: Job 5160d66c-6040-4943-ac15-30d244983baa completed successfully
+[2026-06-05T10:09:38.694Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T10:09:38.708Z] INFO: Server running on port 5000
+[2026-06-05T10:11:57.831Z] INFO: Job 3ada31f1-1cbd-4d83-a6ca-a0b51cb4dce9 created
+[2026-06-05T10:11:57.832Z] INFO: BEFORE WORKER
+[2026-06-05T10:11:57.833Z] INFO: NODE_ENV: undefined
+[2026-06-05T10:11:57.834Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T10:11:57.839Z] INFO: AFTER WORKER
+[2026-06-05T10:11:58.215Z] INFO: Worker online for job 3ada31f1-1cbd-4d83-a6ca-a0b51cb4dce9
+[2026-06-05T10:32:29.583Z] INFO: Job a47ce54d-b47c-4868-8206-a6baa57b6c93 created
+[2026-06-05T10:32:29.591Z] INFO: BEFORE WORKER
+[2026-06-05T10:32:29.594Z] INFO: NODE_ENV: undefined
+[2026-06-05T10:32:29.595Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T10:32:29.619Z] INFO: AFTER WORKER
+[2026-06-05T10:32:30.109Z] INFO: Worker online for job a47ce54d-b47c-4868-8206-a6baa57b6c93
+[2026-06-05T10:32:31.031Z] INFO: CSV files validated successfully
+[2026-06-05T10:32:31.110Z] INFO: CSV files validated successfully
+[2026-06-05T10:32:31.294Z] INFO: SourceA transaction map built
+[2026-06-05T10:32:31.408Z] INFO: SourceA transaction map built
+[2026-06-05T10:32:31.541Z] INFO: Reconciliation completed successfully
+[2026-06-05T10:32:31.544Z] INFO: Job a47ce54d-b47c-4868-8206-a6baa57b6c93 completed successfully
+[2026-06-05T10:32:31.599Z] INFO: Reconciliation completed successfully
+[2026-06-05T10:32:31.606Z] INFO: Job 3ada31f1-1cbd-4d83-a6ca-a0b51cb4dce9 completed successfully
+[2026-06-05T10:33:13.862Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T10:33:13.875Z] INFO: Server running on port 5000
+[2026-06-05T10:33:52.556Z] INFO: Job 121a226c-51ef-42ff-9afe-6d02d42976a5 created
+[2026-06-05T10:33:52.557Z] INFO: BEFORE WORKER
+[2026-06-05T10:33:52.558Z] INFO: NODE_ENV: undefined
+[2026-06-05T10:33:52.559Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T10:33:52.564Z] INFO: AFTER WORKER
+[2026-06-05T10:33:52.885Z] INFO: Worker online for job 121a226c-51ef-42ff-9afe-6d02d42976a5
+[2026-06-05T10:38:10.377Z] INFO: Job e50dbaa4-de65-402d-afd0-14b9d0ad463e created
+[2026-06-05T10:38:10.378Z] INFO: BEFORE WORKER
+[2026-06-05T10:38:10.379Z] INFO: NODE_ENV: undefined
+[2026-06-05T10:38:10.380Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T10:38:10.384Z] INFO: AFTER WORKER
+[2026-06-05T10:38:10.637Z] INFO: Worker online for job e50dbaa4-de65-402d-afd0-14b9d0ad463e
+[2026-06-05T10:48:00.411Z] INFO: Job 50c75518-18f1-428a-a66b-dc9c12e8e7c5 created
+[2026-06-05T10:48:00.413Z] INFO: BEFORE WORKER
+[2026-06-05T10:48:00.414Z] INFO: NODE_ENV: undefined
+[2026-06-05T10:48:00.414Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T10:48:00.421Z] INFO: AFTER WORKER
+[2026-06-05T10:48:00.628Z] INFO: Worker online for job 50c75518-18f1-428a-a66b-dc9c12e8e7c5
+[2026-06-05T17:31:57.663Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:31:57.690Z] INFO: Server running on port 5000
+[2026-06-05T17:32:50.752Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:32:50.760Z] INFO: Server running on port 5000
+[2026-06-05T17:33:13.123Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:33:13.134Z] INFO: Server running on port 5000
+[2026-06-05T17:33:42.236Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:33:42.243Z] INFO: Server running on port 5000
+[2026-06-05T17:33:44.715Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:33:44.734Z] INFO: Server running on port 5000
+[2026-06-05T17:34:12.592Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:34:12.604Z] INFO: Server running on port 5000
+[2026-06-05T17:34:51.065Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:34:51.073Z] INFO: Server running on port 5000
+[2026-06-05T17:35:05.016Z] INFO: Job f75aef72-270c-4817-8745-f2a4e926ff09 created
+[2026-06-05T17:35:05.017Z] INFO: BEFORE WORKER
+[2026-06-05T17:35:05.018Z] INFO: NODE_ENV: undefined
+[2026-06-05T17:35:05.018Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T17:35:05.028Z] INFO: AFTER WORKER
+[2026-06-05T17:35:05.215Z] INFO: Worker online for job f75aef72-270c-4817-8745-f2a4e926ff09
+[2026-06-05T17:37:49.452Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:37:49.464Z] INFO: Server running on port 5000
+[2026-06-05T17:37:58.548Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:37:58.557Z] INFO: Server running on port 5000
+[2026-06-05T17:38:01.190Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:38:01.196Z] INFO: Server running on port 5000
+[2026-06-05T17:38:11.629Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:38:11.639Z] INFO: Server running on port 5000
+[2026-06-05T17:38:39.022Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:38:39.034Z] INFO: Server running on port 5000
+[2026-06-05T17:38:41.021Z] INFO: Job 05ff8f51-1d4a-4159-9c03-377616467101 created
+[2026-06-05T17:38:41.021Z] INFO: BEFORE WORKER
+[2026-06-05T17:38:41.022Z] INFO: NODE_ENV: undefined
+[2026-06-05T17:38:41.022Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T17:38:41.025Z] INFO: AFTER WORKER
+[2026-06-05T17:38:41.217Z] INFO: Worker online for job 05ff8f51-1d4a-4159-9c03-377616467101
+[2026-06-05T17:41:25.184Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:41:25.192Z] INFO: Server running on port 5000
+[2026-06-05T17:41:35.524Z] INFO: Job cc93e666-5449-4128-8cad-24fbbb4513cc created
+[2026-06-05T17:41:35.525Z] INFO: BEFORE WORKER
+[2026-06-05T17:41:35.526Z] INFO: NODE_ENV: undefined
+[2026-06-05T17:41:35.526Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T17:41:35.529Z] INFO: AFTER WORKER
+[2026-06-05T17:41:35.870Z] INFO: Worker online for job cc93e666-5449-4128-8cad-24fbbb4513cc
+[2026-06-05T17:42:54.833Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:42:54.844Z] INFO: Server running on port 5000
+[2026-06-05T17:43:11.929Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:43:11.937Z] INFO: Server running on port 5000
+[2026-06-05T17:43:58.750Z] INFO: Job ea3695c9-571d-4623-b6d3-770d82b23e2c created
+[2026-06-05T17:43:58.751Z] INFO: BEFORE WORKER
+[2026-06-05T17:43:58.751Z] INFO: NODE_ENV: undefined
+[2026-06-05T17:43:58.752Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T17:43:58.753Z] INFO: Worker path exists: true
+[2026-06-05T17:43:58.756Z] INFO: AFTER WORKER
+[2026-06-05T17:43:58.907Z] INFO: Worker online for job ea3695c9-571d-4623-b6d3-770d82b23e2c
+[2026-06-05T17:47:14.958Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:47:14.969Z] INFO: Server running on port 5000
+[2026-06-05T17:47:27.514Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:47:27.525Z] INFO: Server running on port 5000
+[2026-06-05T17:48:19.267Z] INFO: Job 0e13ba82-4da0-4a34-89f4-834ba6c6bd31 created
+[2026-06-05T17:48:19.273Z] INFO: BEFORE WORKER
+[2026-06-05T17:48:19.277Z] INFO: NODE_ENV: undefined
+[2026-06-05T17:48:19.279Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T17:48:19.286Z] INFO: Worker path exists: true
+[2026-06-05T17:48:19.345Z] INFO: AFTER WORKER
+[2026-06-05T17:48:20.788Z] INFO: Worker online for job 0e13ba82-4da0-4a34-89f4-834ba6c6bd31
+[2026-06-05T17:48:23.679Z] INFO: CSV files validated successfully
+[2026-06-05T17:48:23.742Z] INFO: SourceA transaction map built
+[2026-06-05T17:48:23.814Z] INFO: Reconciliation completed successfully
+[2026-06-05T17:48:23.824Z] INFO: Job 0e13ba82-4da0-4a34-89f4-834ba6c6bd31 completed successfully
+[2026-06-05T17:50:31.056Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T17:50:31.105Z] INFO: Server running on port 5000
+[2026-06-05T17:50:39.874Z] INFO: Job af77bafd-b0c0-49d6-a512-616c32c9b9ea created
+[2026-06-05T17:50:39.874Z] INFO: BEFORE WORKER
+[2026-06-05T17:50:39.876Z] INFO: NODE_ENV: undefined
+[2026-06-05T17:50:39.876Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T17:50:39.877Z] INFO: Worker path exists: true
+[2026-06-05T17:50:39.881Z] INFO: AFTER WORKER
+[2026-06-05T17:50:40.277Z] INFO: Worker online for job af77bafd-b0c0-49d6-a512-616c32c9b9ea
+[2026-06-05T17:50:42.603Z] INFO: CSV files validated successfully
+[2026-06-05T17:50:42.673Z] INFO: SourceA transaction map built
+[2026-06-05T17:50:42.762Z] INFO: Reconciliation completed successfully
+[2026-06-05T17:50:42.766Z] INFO: Job af77bafd-b0c0-49d6-a512-616c32c9b9ea completed successfully
+[2026-06-05T18:12:18.366Z] INFO: Job 998326aa-52e0-47f2-bf2f-c243f17dd526 created
+[2026-06-05T18:12:18.371Z] INFO: BEFORE WORKER
+[2026-06-05T18:12:18.371Z] INFO: NODE_ENV: undefined
+[2026-06-05T18:12:18.372Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T18:12:18.373Z] INFO: Worker path exists: true
+[2026-06-05T18:12:18.380Z] INFO: AFTER WORKER
+[2026-06-05T18:12:19.180Z] INFO: Worker online for job 998326aa-52e0-47f2-bf2f-c243f17dd526
+[2026-06-05T18:12:21.907Z] INFO: CSV files validated successfully
+[2026-06-05T18:12:21.998Z] INFO: SourceA transaction map built
+[2026-06-05T18:12:22.071Z] INFO: Reconciliation completed successfully
+[2026-06-05T18:12:22.082Z] INFO: Job 998326aa-52e0-47f2-bf2f-c243f17dd526 completed successfully
+[2026-06-05T18:28:00.821Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T18:28:00.850Z] INFO: Server running on port 5000
+[2026-06-05T18:28:27.198Z] INFO: Job 3c5720fe-5d18-4a6a-a2ec-06fa5d387328 created
+[2026-06-05T18:28:27.199Z] INFO: BEFORE WORKER
+[2026-06-05T18:28:27.200Z] INFO: NODE_ENV: undefined
+[2026-06-05T18:28:27.200Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T18:28:27.202Z] INFO: Worker path exists: true
+[2026-06-05T18:28:27.208Z] INFO: AFTER WORKER
+[2026-06-05T18:28:27.810Z] INFO: Worker online for job 3c5720fe-5d18-4a6a-a2ec-06fa5d387328
+[2026-06-05T18:28:30.238Z] INFO: CSV files validated successfully
+[2026-06-05T18:28:30.308Z] INFO: SourceA transaction map built
+[2026-06-05T18:28:30.505Z] INFO: Reconciliation completed successfully
+[2026-06-05T18:28:30.511Z] INFO: Job 3c5720fe-5d18-4a6a-a2ec-06fa5d387328 completed successfully
+[2026-06-05T18:32:22.833Z] INFO: Job 7017763f-7a40-46ac-8b80-5537d397ed59 created
+[2026-06-05T18:32:22.833Z] INFO: BEFORE WORKER
+[2026-06-05T18:32:22.833Z] INFO: NODE_ENV: undefined
+[2026-06-05T18:32:22.833Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T18:32:22.835Z] INFO: Worker path exists: true
+[2026-06-05T18:32:22.838Z] INFO: AFTER WORKER
+[2026-06-05T18:32:23.337Z] INFO: Worker online for job 7017763f-7a40-46ac-8b80-5537d397ed59
+[2026-06-05T18:32:25.754Z] INFO: CSV files validated successfully
+[2026-06-05T18:32:25.831Z] INFO: SourceA transaction map built
+[2026-06-05T18:32:25.909Z] INFO: Reconciliation completed successfully
+[2026-06-05T18:32:25.914Z] INFO: Job 7017763f-7a40-46ac-8b80-5537d397ed59 completed successfully
+[2026-06-05T19:18:29.193Z] INFO: Job 8b4cdc5b-fc80-4df5-b2bd-4587ad30a1ce created
+[2026-06-05T19:18:29.202Z] INFO: BEFORE WORKER
+[2026-06-05T19:18:29.204Z] INFO: NODE_ENV: undefined
+[2026-06-05T19:18:29.204Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T19:18:29.208Z] INFO: Worker path exists: true
+[2026-06-05T19:18:29.219Z] INFO: AFTER WORKER
+[2026-06-05T19:18:30.178Z] INFO: Worker online for job 8b4cdc5b-fc80-4df5-b2bd-4587ad30a1ce
+[2026-06-05T19:18:33.890Z] INFO: CSV files validated successfully
+[2026-06-05T19:18:34.074Z] INFO: SourceA transaction map built
+[2026-06-05T19:18:34.221Z] INFO: Reconciliation completed successfully
+[2026-06-05T19:18:34.232Z] INFO: Job 8b4cdc5b-fc80-4df5-b2bd-4587ad30a1ce completed successfully
+[2026-06-05T19:46:49.555Z] INFO: Job 0c1401f4-043e-4cab-b284-857c0b793dd7 created
+[2026-06-05T19:46:49.561Z] INFO: BEFORE WORKER
+[2026-06-05T19:46:49.563Z] INFO: NODE_ENV: undefined
+[2026-06-05T19:46:49.564Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T19:46:49.567Z] INFO: Worker path exists: true
+[2026-06-05T19:46:49.585Z] INFO: AFTER WORKER
+[2026-06-05T19:46:50.299Z] INFO: Worker online for job 0c1401f4-043e-4cab-b284-857c0b793dd7
+[2026-06-05T19:46:53.367Z] INFO: CSV files validated successfully
+[2026-06-05T19:46:53.446Z] INFO: SourceA transaction map built
+[2026-06-05T19:46:53.556Z] INFO: Reconciliation completed successfully
+[2026-06-05T19:46:53.565Z] INFO: Job 0c1401f4-043e-4cab-b284-857c0b793dd7 completed successfully
+[2026-06-05T19:48:40.350Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T19:48:40.361Z] INFO: Server running on port 5000
+[2026-06-05T19:50:46.500Z] INFO: Job 852fa085-cd0f-42e6-b2fe-32fc19f168a8 created
+[2026-06-05T19:50:46.501Z] INFO: BEFORE WORKER
+[2026-06-05T19:50:46.501Z] INFO: NODE_ENV: undefined
+[2026-06-05T19:50:46.502Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T19:50:46.503Z] INFO: Worker path exists: true
+[2026-06-05T19:50:46.509Z] INFO: AFTER WORKER
+[2026-06-05T19:50:46.975Z] INFO: Worker online for job 852fa085-cd0f-42e6-b2fe-32fc19f168a8
+[2026-06-05T19:50:49.507Z] INFO: CSV files validated successfully
+[2026-06-05T19:50:49.573Z] INFO: SourceA transaction map built
+[2026-06-05T19:50:49.651Z] INFO: Reconciliation completed successfully
+[2026-06-05T19:50:49.659Z] INFO: Job 852fa085-cd0f-42e6-b2fe-32fc19f168a8 completed successfully
+[2026-06-05T21:50:43.785Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:50:43.800Z] INFO: Server running on port 5000
+[2026-06-05T21:50:49.383Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:50:49.390Z] INFO: Server running on port 5000
+[2026-06-05T21:51:03.368Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:51:03.379Z] INFO: Server running on port 5000
+[2026-06-05T21:51:23.569Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:51:23.578Z] INFO: Server running on port 5000
+[2026-06-05T21:51:24.842Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:51:24.854Z] INFO: Server running on port 5000
+[2026-06-05T21:55:42.022Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:55:42.030Z] INFO: Server running on port 5000
+[2026-06-05T21:57:31.780Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:57:31.789Z] INFO: Server running on port 5000
+[2026-06-05T21:57:41.919Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T21:57:41.927Z] INFO: Server running on port 5000
+[2026-06-05T21:58:03.426Z] INFO: Job c5986909-70ec-4f78-9a83-ca13a9154204 created
+[2026-06-05T21:58:03.431Z] INFO: BEFORE WORKER
+[2026-06-05T21:58:03.435Z] INFO: NODE_ENV: undefined
+[2026-06-05T21:58:03.437Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T21:58:03.447Z] INFO: Worker path exists: true
+[2026-06-05T21:58:03.561Z] INFO: AFTER WORKER
+[2026-06-05T21:58:04.094Z] INFO: Worker online for job c5986909-70ec-4f78-9a83-ca13a9154204
+[2026-06-05T21:58:08.440Z] INFO: CSV files validated successfully
+[2026-06-05T21:58:08.686Z] INFO: SourceA transaction map built
+[2026-06-05T21:58:08.877Z] INFO: Reconciliation completed successfully
+[2026-06-05T21:58:08.878Z] INFO: Job c5986909-70ec-4f78-9a83-ca13a9154204 completed successfully
+[2026-06-05T22:01:09.436Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:01:09.446Z] INFO: Server running on port 5000
+[2026-06-05T22:01:11.174Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:01:11.181Z] INFO: Server running on port 5000
+[2026-06-05T22:01:27.616Z] INFO: Job b94c9302-c30f-4a5f-b52b-21bf978fbed2 created
+[2026-06-05T22:01:27.617Z] INFO: NODE_ENV: undefined
+[2026-06-05T22:01:27.617Z] INFO: Worker path: C:\Users\HP\Desktop\Personal Project\PGTL\Transaction Ledger Reconcilation Sytem\Reconcilation Backend\src\workers\reconciliationWorker.ts
+[2026-06-05T22:01:27.618Z] INFO: Worker path exists: true
+[2026-06-05T22:01:27.997Z] INFO: Worker online for job b94c9302-c30f-4a5f-b52b-21bf978fbed2
+[2026-06-05T22:01:30.490Z] INFO: CSV files validated successfully
+[2026-06-05T22:01:30.569Z] INFO: SourceA transaction map built
+[2026-06-05T22:01:30.649Z] INFO: Reconciliation completed successfully
+[2026-06-05T22:01:30.651Z] INFO: Job b94c9302-c30f-4a5f-b52b-21bf978fbed2 completed successfully
+[2026-06-05T22:10:54.248Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:10:54.255Z] INFO: Server running on port 5000
+[2026-06-05T22:11:01.344Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:11:01.351Z] INFO: Server running on port 5000
+[2026-06-05T22:11:09.561Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:11:09.575Z] INFO: Server running on port 5000
+[2026-06-05T22:11:38.182Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:11:38.190Z] INFO: Server running on port 5000
+[2026-06-05T22:12:04.326Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:04.338Z] INFO: Server running on port 5000
+[2026-06-05T22:12:12.347Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:12.355Z] INFO: Server running on port 5000
+[2026-06-05T22:12:20.481Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:20.489Z] INFO: Server running on port 5000
+[2026-06-05T22:12:23.152Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:23.160Z] INFO: Server running on port 5000
+[2026-06-05T22:12:34.312Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:34.322Z] INFO: Server running on port 5000
+[2026-06-05T22:12:57.673Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:57.683Z] INFO: Server running on port 5000
+[2026-06-05T22:12:58.992Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:12:59.000Z] INFO: Server running on port 5000
+[2026-06-05T22:13:00.709Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:13:00.716Z] INFO: Server running on port 5000
+[2026-06-05T22:13:09.180Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:13:09.187Z] INFO: Server running on port 5000
+[2026-06-05T22:13:24.444Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:13:24.451Z] INFO: Server running on port 5000
+[2026-06-05T22:13:30.543Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:13:30.553Z] INFO: Server running on port 5000
+[2026-06-05T22:20:08.381Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-05T22:20:08.389Z] INFO: Server running on port 5000
+[2026-06-05T22:39:31.735Z] INFO: Job 881d73b8-26f9-4eb9-9dd6-7391a167d29b created
+[2026-06-05T22:39:34.759Z] INFO: CSV files validated successfully
+[2026-06-05T22:39:34.823Z] INFO: SourceA transaction map built
+[2026-06-05T22:39:34.916Z] INFO: Reconciliation completed successfully
+[2026-06-05T22:39:34.918Z] INFO: Job 881d73b8-26f9-4eb9-9dd6-7391a167d29b completed successfully
+[2026-06-06T06:32:27.370Z] INFO: Background Job Cleanup Sweeper initialized.
+[2026-06-06T06:32:27.379Z] INFO: Server running on port 5000
+[2026-06-06T06:32:39.314Z] INFO: Job 59a53060-7cb5-47d1-89b8-2d919ee0c699 created
+[2026-06-06T06:32:42.457Z] INFO: CSV files validated successfully
+[2026-06-06T06:32:42.526Z] INFO: SourceA transaction map built
+[2026-06-06T06:32:42.615Z] INFO: Reconciliation completed successfully
+[2026-06-06T06:32:42.617Z] INFO: Job 59a53060-7cb5-47d1-89b8-2d919ee0c699 completed successfully
