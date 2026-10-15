@@ -40,12 +40,10 @@ export async function reconcileFiles(req: Request, res: Response): Promise<Respo
 
     logger.info( `Job ${job.jobId} created` );
 
-    // logger.info("BEFORE WORKER");
-
-    // Start background worker thread
+  
     startReconciliationWorker(job.jobId, sourceAPath, sourceBPath);
 
-    // logger.info("AFTER WORKER");
+    logger.info( `Job ${job.jobId} started` );
 
     // Immediate response
     return res.status(202).json({
