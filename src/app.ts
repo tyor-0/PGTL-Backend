@@ -9,15 +9,12 @@ const FRONTEND_URL = process.env.FRONTEND_URL;
 
 app.use(
   cors({
-    origin:
-      process.env.NODE_ENV === "production"
-        ? process.env.FRONTEND_URL
-        : "http://localhost:5173",
+    origin: process.env.NODE_ENV === "production" ? process.env.FRONTEND_URL  : "http://localhost:5173",
   })
 );
+
 app.use(express.json());
 
-// 1. ABSOLUTE ROOT HEALTH CHECK (http://localhost:5000/)
 app.get("/", (req: Request, res: Response) => {
   res.status(200).json({
     success: true,
@@ -26,7 +23,6 @@ app.get("/", (req: Request, res: Response) => {
   });
 });
 
-// 2. API VERSION 1 ROOT HEALTH CHECK (http://localhost:5000/api/v1)
 app.get("/api/v1", (req: Request, res: Response) => {
   res.status(200).json({
     success: true,
@@ -36,7 +32,6 @@ app.get("/api/v1", (req: Request, res: Response) => {
   });
 });
 
-// Your core feature routes
 app.use("/api/v1/reconcile", reconcileRoutes);
 app.use("/api/v1/jobs", jobRoutes);
 
